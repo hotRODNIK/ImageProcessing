@@ -1,4 +1,4 @@
-# Program Name: NickEekhofLabSix.py
+# Program Name: GrayScaleBlur.py
 # Programmer Name: Nick E.
 # Date: 03-03-2021
 # Program Description: Part One of this lab converts an image to grayscale,
