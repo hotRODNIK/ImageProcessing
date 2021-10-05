@@ -1,5 +1,5 @@
 # Program Name: NickEekhofLabSix.py
-# Programmer Name: Nick Eekhof 
+# Programmer Name: Nick E.
 # Date: 03-03-2021
 # Program Description: Part One of this lab converts an image to grayscale,
 # the second part blurs an image and the third part detects a line
