@@ -1,5 +1,5 @@
 # Program Name: NickEekhofLabSix.py
-# Programmer Name: Nick Eekhof 
+# Programmer Name: Nick E.
 # Date: 03-03-2021
 # Program Description: This program detects the edges of an image, plots that image and then writes
 # the new image to disk
